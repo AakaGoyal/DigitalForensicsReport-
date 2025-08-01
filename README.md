@@ -37,6 +37,17 @@ Snipping Tool / Screenshot Utility
 - <b>Windows 10</b>
 - <b>TryHackMe</b>
 
+Screenshots 
+<img width="1012" height="767" alt="image" src="https://github.com/user-attachments/assets/256fa677-06e4-4e79-95c6-58d997811b84" />
+<img width="1010" height="764" alt="image" src="https://github.com/user-attachments/assets/e1483d83-8dbc-4dee-b09f-a44a604f7205" />
+<img width="1016" height="768" alt="image" src="https://github.com/user-attachments/assets/8b131ad7-68b4-44a1-937a-a74d515936bc" />
+<img width="998" height="759" alt="image" src="https://github.com/user-attachments/assets/47a9f62f-fe8b-4738-ad51-05931981dafe" />
+<img width="1010" height="768" alt="image" src="https://github.com/user-attachments/assets/36585c8b-7a09-4f66-8ea5-7a6291035b94" />
+<img width="1007" height="770" alt="image" src="https://github.com/user-attachments/assets/9e0fec93-b912-4d35-966c-30ccd0f1e8d5" />
+<img width="1009" height="773" alt="image" src="https://github.com/user-attachments/assets/51a0cf51-375a-4d61-a03a-97e74e6cd5bd" />
+<img width="1015" height="772" alt="image" src="https://github.com/user-attachments/assets/10f8956f-dfe5-4a3e-b61d-26afeb31bdc8" />
+
+
 
 <!--
  ```diff
